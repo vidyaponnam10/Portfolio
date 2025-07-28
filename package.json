@@ -1,0 +1,33 @@
+{
+  "name": "vidya-ponnam-portfolio",
+  "version": "1.0.0",
+  "description": "Professional portfolio website for Vidya Ponnam - Computer Science Student",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "dev": "python -m http.server 8000",
+    "serve": "python -m http.server 8000"
+  },
+  "keywords": [
+    "portfolio",
+    "student",
+    "computer-science",
+    "web-development",
+    "responsive",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Vidya Ponnam",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/vidya-ponnam-portfolio.git"
+  },
+  "homepage": "https://username.github.io/vidya-ponnam-portfolio",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+} 
